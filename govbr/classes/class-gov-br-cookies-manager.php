@@ -275,7 +275,7 @@ class Gov_BR_Cookies_Manager {
 										array(
 											'default' => 'Serpro',
 											'label' => __( 'Empresa', 'govbr'),
-											'slug' => 'entreprise', // Erro de digitação proposital, ver https://gitlab.com/govbr-ds/ds/dev/govbr-ds-dev-core/-/merge_requests/144
+											'slug' => 'enterprise',
 											'type' => 'text'
 										),
 										array(
@@ -337,7 +337,7 @@ class Gov_BR_Cookies_Manager {
 										array(
 											'default' => 'Serpro',
 											'label' => __( 'Empresa', 'govbr'),
-											'slug' => 'entreprise', // Erro de digitação proposital, ver https://gitlab.com/govbr-ds/ds/dev/govbr-ds-dev-core/-/merge_requests/144
+											'slug' => 'enterprise',
 											'type' => 'text'
 										),
 										array(
@@ -444,7 +444,7 @@ class Gov_BR_Cookies_Manager {
 										array(
 											'default' => 'Serpro',
 											'label' => __( 'Empresa', 'govbr'),
-											'slug' => 'entreprise', // Erro de digitação proposital, ver https://gitlab.com/govbr-ds/ds/dev/govbr-ds-dev-core/-/merge_requests/144
+											'slug' => 'enterprise',
 											'type' => 'text'
 										),
 										array(
