@@ -8,12 +8,12 @@
   padding-left: 2rem;
   border-left: 1px solid #dcdcde;
 }
-.settings_page_cookies-settings [class^=cookie_groups_0] > th,
-.settings_page_cookies-settings [class^=cookie_groups_1] > th,
-.settings_page_cookies-settings [class^=cookie_groups_2] > th,
-.settings_page_cookies-settings [class^=cookie_groups_3] > th,
-.settings_page_cookies-settings [class^=cookie_groups_4] > th,
-.settings_page_cookies-settings [class^=cookie_groups_5] > th {
+.settings_page_cookies-settings [class^=cookie_groups_0_] > th,
+.settings_page_cookies-settings [class^=cookie_groups_1_] > th,
+.settings_page_cookies-settings [class^=cookie_groups_2_] > th,
+.settings_page_cookies-settings [class^=cookie_groups_3_] > th,
+.settings_page_cookies-settings [class^=cookie_groups_4_] > th,
+.settings_page_cookies-settings [class^=cookie_groups_5_] > th {
   padding-left: 4rem;
 }
 

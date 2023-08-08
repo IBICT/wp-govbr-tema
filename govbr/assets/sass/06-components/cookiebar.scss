@@ -14,6 +14,10 @@
      * o que faz com que o modal fique com um tamanho menor do que o
      * desejado aqui.
      */
+    .br-modal-header {
+        margin-left: 0;
+        margin-right: 0;
+    }
     .br-modal-header.entry-content>* {
         max-width: unset !important;
     }
